@@ -28,8 +28,7 @@ especialmente su creación, describiendo los pasos necesarios para
 conseguirlo.
 
 Es preciso que el lector tenga unas nociones mínimas sobre el
-funcionamiento de Liferay, que podrá encontrar en el documento
-denominado “Manual Liferay 7.2”.
+funcionamiento de Liferay, que podrá encontrar en [Formación Liferay](/2020/04/20/formacion-liferay).
 
 ## NOTICIA 
 
