@@ -10,6 +10,7 @@ header_pages:
 
 # Build settings
 markdown:     kramdown
+future: true
 permalink:    pretty
 paginate:     4
 sass:
