@@ -1,0 +1,23 @@
+# Site settings
+title:       Formación IZFE
+description: "Formación IZFE"
+baseurl:     ""
+url:         "http://formacionliferay.netlify.app"
+date_format: "%Y-%m-%d"
+header_pages:
+ - about.md
+ - contact.html
+
+# Build settings
+markdown:     kramdown
+permalink:    pretty
+paginate:     4
+sass:
+  style: compressed
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
