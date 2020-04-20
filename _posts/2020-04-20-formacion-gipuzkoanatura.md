@@ -7,7 +7,7 @@ date: 2020-04-20 09:22
 ![logo-izfe](/images/image2.png)
 
 
-## INDICE 
+## ÍNDICE 
 
 - [INTRODUCCIÓN](#introducción)
 

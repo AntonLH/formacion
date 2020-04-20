@@ -8,7 +8,7 @@ date: 2020-04-20 09:22
 ![logo-izfe](/images/image2.png)
 
 
-## INDICE 
+## ÍNDICE 
 
 - [INTRODUCCIÓN](#introducción)
 
@@ -26,7 +26,7 @@ date: 2020-04-20 09:22
 
   * [Opciones de publicación](#opciones-de-publicación)
 
-## INTRODUCCIÓN.
+## INTRODUCCIÓN
 
 Esta es una guía rápida de uso del portal y gestor de contenidos basado
 en Liferay. El objetivo de este manual es reconocer las acciones
@@ -61,7 +61,7 @@ directa o planificada y el propio contenido, introducido con un editor
 Pero iremos paso a paso, tratando de fijar los conceptos previos antes
 de pasar al siguiente.
 
-## CONCEPTOS IMPORTANTES.
+## CONCEPTOS IMPORTANTES
 
 Decimos que Liferay es un portal web. Esto significa que es una
 aplicación capaz de mostrar webs cuyas páginas a su vez están divididas
@@ -77,7 +77,7 @@ contenidos individuales, dentro de esos *bloques*. Vamos a hacer una
 relación de los conceptos más importantes para poder entender el resto
 del manual.
 
-## Páginas.
+## Páginas
 
 Aunque en ocasiones hablamos de “página web” para referirnos a una web
 en su conjunto, utilizaremos para esto el término “sitio web”. De esta
@@ -100,7 +100,7 @@ barra de direcciones del navegador), la cual puede ser compartida
 mediante enlaces, correo electrónico, redes sociales o tecleándola a
 mano.
 
-## Layouts.
+## Layouts
 
 Una vez que ya tenemos nuestro lienzo donde ir colocando información,
 nos falta definir el *layout* o disposición de la página.
@@ -121,7 +121,7 @@ especialmente para algunos casos.
 
 ![](/images/image52.png)
 
-## Portlets (o aplicaciones).
+## Portlets (o aplicaciones)
 
 El siguiente concepto que veremos es el de los portlets. Tras este
 término se esconde algo tan sencillo como una *aplicación*. Las hemos
@@ -177,7 +177,7 @@ queremos, filtrando por los criterios que sean necesarios, etcétera. Muy
 pocos portlets funcionan directamente si no los ajustamos para que
 actúen exactamente en la forma precisa.
 
-## Contenidos web.
+## Contenidos web
 
 Poco a poco vamos desgranando elementos fundamentales para una web, y en
 este caso nos centraremos en los contenidos. Los hay de dos tipos, unos
@@ -251,7 +251,7 @@ anteriores) así como una papelera de reciclaje, de forma que un
 contenido que se elimina, permanece en ella durante 30 días antes de ser
 borrada automáticamente.
 
-## Contenidos multimedia.
+## Contenidos multimedia
 
 Existe otro tipo de contenido, los denominados “documentos y
 multimedia”. Este apartado viene a ser una especie de *Dropbox* donde,
@@ -289,7 +289,7 @@ publicar con éxito contenidos en nuestra web.
 
 ![](/images/image102.png)
 
-## Opciones de publicación.
+## Opciones de publicación
 
 Cuando estamos creando un contenido hay información que es muy
 específica y obligatoria y otra que es opcional. Sin embargo esta
