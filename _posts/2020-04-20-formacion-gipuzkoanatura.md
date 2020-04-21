@@ -30,11 +30,16 @@ conseguirlo.
 Es preciso que el lector tenga unas nociones mínimas sobre el
 funcionamiento de Liferay, que podrá encontrar en [Formación Liferay](/2020/04/20/formacion-liferay).
 
+Antes de empezar a editar contenidos tendremos que iniciar sesión. Para ello
+entramos en [https://www.gipuzkoanatura.eus/es/entrada](https://www.gipuzkoanatura.eus/es/entrada), introducimos nuestro usuario y contraseña y pulsamos acceder. Veremos que ahora tenemos una barra ocupando la parte superior de la web, que nos permite acceder a la parte privada de administración, donde editaremos los contenidos.
+
+![](/images/login.gif)
+
 ## NOTICIA 
 
 En este apartado se describe la forma de añadir nuevas noticias a la web
 de GipuzkoaNatura. Lo haremos con un contenido estructurado (Noticia),
-uno por cada una de ellas, que permitirán su listado completo, así como
+uno por cada una de las noticias, que permitirán su listado completo, así como
 búsqueda o filtrado posterior en distintas ubicaciones de la web.
 
 El proceso es el siguiente:
@@ -86,7 +91,7 @@ cambios pulsamos Guardar borrador.
 
 En este apartado se describe la forma de añadir nuevos eventos a la
 agenda de la web de GipuzkoaNatura. Lo haremos con un contenido
-estructurado (Agenda), uno por cada una de ellas, que permitirán su
+estructurado (Agenda), uno por cada uno de los eventos, que permitirán su
 listado completo, así como búsqueda o filtrado posterior en distintas
 ubicaciones de la web.
 
@@ -136,6 +141,12 @@ para publicar el contenido, si no hemos terminado pero queremos guardar
 los cambios pulsamos Guardar borrador.
 
 ## PARKETXE
+
+En este apartado se describe la forma de añadir nuevos parketxes en la 
+web de GipuzkoaNatura. Lo haremos con un contenido estructurado (Parketxe),
+uno por cada uno de los parketxes, que permitirán su
+listado completo, así como búsqueda o filtrado posterior en distintas
+ubicaciones de la web.
 
 El proceso es el siguiente:
 
