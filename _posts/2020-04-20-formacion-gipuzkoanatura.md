@@ -92,6 +92,13 @@ no podemos usar las opciones título 1 y título 2 ya que no respetarían la est
 publicar el contenido, si no hemos terminado pero queremos guardar los
 cambios pulsamos Guardar borrador.
 
+12. La noticia saldrá publicada en el inicio, junto a las dos últimas y en la página de noticias. Si queremos que salga además 
+como destacada en la página de inicio tendremos que seleccionarla en la configuración del portlet. Pulsamos en configuración 
+y en la ventana que se abre pulsamos el botón Seleccionar dentro del apartado Contenidos, seleccionamos la estructura Noticia y 
+pulsamos sobre la noticia que queramos destacar. Se añadirá debajo de la actualmente destacada, por lo que tendremos que eliminar
+la otra o subir la nueva pulsando la flecha.
+![](/images/noticiadestacada.gif)
+
 ## AGENDA
 
 En este apartado se describe la forma de añadir nuevos eventos a la
