@@ -78,12 +78,17 @@ accesibilidad de la página.
 8. Añadimos la entradilla, que es el texto que se mostrará en el listado
 de noticias antes de entrar a leerlas y la fecha de publicación de la noticia.
 
-9. Ahora hay que volcar el contenido HTML. Puede que nos encontremos con
-HTML sucio (styles en etiquetas \<p\>, \<strong\> o \<a\>, etiquetas \<span\> innecesarias). Comprobar si
-las URLs de los enlaces son externas o no.
-![](/images/html.gif)
+9. Ahora hay que editar el contenido principal, en formato HTML. Podemos escribir aquí el contenido, pero si lo tenemos ya escrito en otro sitio
+tendremos que copiarlo como texto sin formato (Ctrl+Mayús+V) y darle el formato en este editor. Para ello el editor tiene varias opciones.<br>
+Mostrar texto como título, en negrita, cursiva o subrayado, en listado.
+![](/images/editor.gif)
+Añadir imágenes o enlaces a documentos previamente subidos a Liferay en la galería de documentos y multimedia.
+![](/images/editor2.gif)
 
-10. Una vez rellenados todos los campos pulsamos el botón Publicar para
+10. Es importante que recordemos respetar las normas de accesibilidad cuando creamos el contenido, todas las imágenes tienen que tener su texto descriptivo,
+no podemos usar las opciones título 1 y título 2 ya que no respetarían la estructura de la página. 
+
+11. Una vez rellenados todos los campos obligatorios en ambos idiomas pulsamos el botón Publicar para
 publicar el contenido, si no hemos terminado pero queremos guardar los
 cambios pulsamos Guardar borrador.
 
