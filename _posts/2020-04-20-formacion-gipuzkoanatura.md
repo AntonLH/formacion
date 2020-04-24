@@ -17,6 +17,8 @@ date: 2020-04-20 09:22
 
 - [PARKETXE](#parketxe)
 
+- [BILLBOARD](#billboard)
+
 ## INTRODUCCIÓN
 
 Esta es una guía rápida de uso del portal y gestor de contenidos basado
@@ -201,12 +203,16 @@ las imágenes lo tuvieran, ya que es necesario para asegurar la
 accesibilidad de la página, para añadir más de una imagen tenemos que
 pulsar en el botón de la derecha, que creará los campos nuevos para
 rellenar. Después introducimos el resto de la descripción que se
-mostrará después del carrusel de imágenes.
+mostrará después del carrusel de imágenes. En estos campos HTML podemos incrustar
+vídeos de youtube y otros proveedores, pulsando el botón de añadir y seleccionando
+la opción de vídeo, tendremos que copiar el enlace al vídeo y aceptar.
+![](/images/parketxe3.gif)
 
 8. Añadimos un texto descriptivo de la oferta educativa y los documentos
 que relacionados con ella, además del título correspondiente en cada
 uno. Se pueden subir tanto documentos (pdf, doc…) como imágenes, pero
 todos se mostrarán como enlaces a abrir en una nueva pestaña.
+![](/images/parketxe2.gif)
 
 9. Tras esto añadimos los datos de ubicación y contacto, los textos de
 introducción de ubicación y dirección, las coordenadas en formato
@@ -228,3 +234,35 @@ senderos del parketxe y la URL a detalle.
 13. Una vez rellenados los campos necesarios pulsamos el botón Publicar
 para publicar el contenido, si no hemos terminado pero queremos guardar
 los cambios pulsamos Guardar borrador.
+
+
+## BILLBOARD
+
+En este apartado se describe la forma de editar el contenido de la cabecera
+principal de la web de GipuzkoaNatura para añadir noticias o eventos destacados.
+Tendremos que editar el contenido "Billboard home" de tipo "Billboard - Inicio".
+
+El proceso es el siguiente:
+
+1. Desde la página principal pulsar el botón con tres puntos "Opciones de contenido web"
+que permite editar el contenido, seleccionamos la opción "Editar contenido web" y se nos abrirá 
+el formulario que tendremos que editar.
+![](/images/billboard.gif)
+
+2. De este formulario tendremos que editar únicamente los apartados "Billboard - Tituloa" y "Evento".
+Editando o añadiendo un nuevo elemento "Billboard - Tituloa" podremos gestionar las noticias destacadas
+y con el campo "Evento" seleccionaremos o añadiremos eventos nuevos.
+
+3. Para añadir una nueva noticia tendremos que pulsar el botón azul con un plus (+), a la derecha del campo
+"Billboard - Tituloa" que nos creará cuatro campos nuevos a rellenar. Después de rellenarlos podremos 
+reorganizar las noticias arrastrándolas para ordenarlas.
+![](/images/billboard2.gif)
+
+4. Para añadir un evento pulsamos en el botón azul con un plus (+), a la derecha del campo "Evento" que nos
+creará otro campo "Evento", pulsamos Seleccionar y buscamos el contenido de tipo "Agenda" que queramos destacar.
+![](/images/billboard3.gif)
+
+5. Una vez hechos todos los cambios en ambos idiomas pulsamos el botón Publicar
+para publicar el contenido, si no hemos terminado pero queremos guardar
+los cambios pulsamos Guardar borrador.
+
